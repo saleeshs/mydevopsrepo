@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>This is a test message---GIT demo V1</h1>
+<h1>This is a test message---GIT demo V2</h1>
 </body>
 </html>
